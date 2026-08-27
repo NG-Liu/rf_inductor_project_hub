@@ -206,6 +206,7 @@ def main() -> int:
     parser.add_argument("--destination", type=Path, default=DESKTOP / ARCHIVE_NAME)
     parser.add_argument("--zip", dest="zip_path", type=Path, default=DESKTOP / f"{ARCHIVE_NAME}.zip")
     parser.add_argument("--resume", action="store_true", help="Continue a partial archive at an existing destination.")
+    parser.add_argument("--replace-zip", action="store_true", help="Replace an existing ZIP while refreshing a resumed archive.")
     args = parser.parse_args()
 
     sources = default_sources()
@@ -213,7 +214,7 @@ def main() -> int:
     if missing:
         raise FileNotFoundError("Missing archive sources:\n" + "\n".join(missing))
     ensure_destination_is_safe(args.destination, sources, args.resume)
-    if args.zip_path.exists():
+    if args.zip_path.exists() and not args.replace_zip:
         raise FileExistsError(f"ZIP destination already exists: {args.zip_path}")
 
     args.destination.mkdir(parents=True, exist_ok=args.resume)
