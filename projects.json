@@ -1,0 +1,26 @@
+{
+  "generated_on": "2026-08-27",
+  "projects": [
+    {
+      "id": "inductor_core",
+      "path": "C:\\Users\\mechrevo\\Desktop\\single_inductor_lq_surrogate",
+      "role": "canonical_core",
+      "git_head": "dd95371a266cb5265eb2a16c0077a8eb8e36665d",
+      "description": "Reusable single-inductor L/Q surrogate and EMX workflow."
+    },
+    {
+      "id": "inductor_release",
+      "path": "C:\\Users\\mechrevo\\Desktop\\emx_inductor_optimizer_release",
+      "role": "derived_release",
+      "git_head": "a6bc420bc595cc652f97356725f5e25658aad4d6",
+      "description": "Reference release with selected EMX artifacts and handoff material."
+    },
+    {
+      "id": "rf_integration_legacy",
+      "path": "C:\\Users\\mechrevo\\Desktop\\新建文件夹 (2)",
+      "role": "legacy_integration_workspace",
+      "git_head": "758c552b1a0fea48f748f5ae40cf9b937e1ae238",
+      "description": "Historical LVBOBALUN, EMX, cascade, and HFSS integration workspace."
+    }
+  ]
+}

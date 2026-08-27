@@ -1,0 +1,184 @@
+﻿project_id,role,group,kind,relative_path,file_count,size_bytes,top_extensions
+inductor_core,canonical_core,.gitignore,workspace_group,.gitignore,1,445,[no extension]:1
+inductor_core,canonical_core,configs,data_or_config,configs,2,1779,.yaml:2
+inductor_core,canonical_core,data,data_or_config,data,5,56619,.json:2; .s2p:2; .csv:1
+inductor_core,canonical_core,docs,documentation,docs,4,4201,.md:4
+inductor_core,canonical_core,pyproject.toml,workspace_group,pyproject.toml,1,322,.toml:1
+inductor_core,canonical_core,README.md,workspace_group,README.md,1,5322,.md:1
+inductor_core,canonical_core,runs,simulation_results,runs,1946,16780156,.py:950; .il:323; .gds:317; .s2p:317; .json:19
+inductor_core,canonical_core,scripts,source,scripts,16,59662,.py:16
+inductor_core,canonical_core,src,source,src,10,53849,.py:10
+inductor_core,canonical_core,tests,source,tests,1,541,.py:1
+inductor_release,derived_release,.gitattributes,workspace_group,.gitattributes,1,243,[no extension]:1
+inductor_release,derived_release,.gitignore,workspace_group,.gitignore,1,374,[no extension]:1
+inductor_release,derived_release,configs,data_or_config,configs,3,2276,.yaml:2; .json:1
+inductor_release,derived_release,data,data_or_config,data,5,56619,.json:2; .s2p:2; .csv:1
+inductor_release,derived_release,docs,documentation,docs,5,8211,.md:5
+inductor_release,derived_release,pyproject.toml,workspace_group,pyproject.toml,1,322,.toml:1
+inductor_release,derived_release,README.md,workspace_group,README.md,1,4570,.md:1
+inductor_release,derived_release,runs,simulation_results,runs,1813,15965811,.py:918; .il:292; .gds:286; .s2p:286; .csv:15
+inductor_release,derived_release,scripts,source,scripts,17,65111,.py:17
+inductor_release,derived_release,src,source,src,10,53849,.py:10
+inductor_release,derived_release,SUBMISSION.md,workspace_group,SUBMISSION.md,1,1474,.md:1
+inductor_release,derived_release,tests,source,tests,1,541,.py:1
+rf_integration_legacy,legacy_integration_workspace,.agents,workspace_group,.agents,0,0,
+rf_integration_legacy,legacy_integration_workspace,.gitignore,workspace_group,.gitignore,1,595,[no extension]:1
+rf_integration_legacy,legacy_integration_workspace,2026-07-13_fb_c31_r01_sparse,workspace_group,2026-07-13_fb_c31_r01_sparse,20,1182617,.json:8; .png:4; .py:2; .gds:2; .s3p:1
+rf_integration_legacy,legacy_integration_workspace,2026-07-13_fb_c31_r01_sparse.zip,workspace_group,2026-07-13_fb_c31_r01_sparse.zip,1,22028,.zip:1
+rf_integration_legacy,legacy_integration_workspace,4.5_AI_Agent在设计流程中的应用_合并版.docx,workspace_group,4.5_AI_Agent在设计流程中的应用_合并版.docx,1,311764,.docx:1
+rf_integration_legacy,legacy_integration_workspace,4.5_AI_Agent在设计流程中的应用_法动软件兼容协同增强版.docx,workspace_group,4.5_AI_Agent在设计流程中的应用_法动软件兼容协同增强版.docx,1,337128,.docx:1
+rf_integration_legacy,legacy_integration_workspace,add_joint_s11_to_final_hfss.py,workspace_group,add_joint_s11_to_final_hfss.py,1,4216,.py:1
+rf_integration_legacy,legacy_integration_workspace,AGENT_WORKFLOW_TECHNICAL_REPORT.md,workspace_group,AGENT_WORKFLOW_TECHNICAL_REPORT.md,1,14970,.md:1
+rf_integration_legacy,legacy_integration_workspace,Agent驱动的多软件协同_技术报告章节.docx,workspace_group,Agent驱动的多软件协同_技术报告章节.docx,1,285727,.docx:1
+rf_integration_legacy,legacy_integration_workspace,AI_Agent全波仿真自动化流程.png,workspace_group,AI_Agent全波仿真自动化流程.png,1,96849,.png:1
+rf_integration_legacy,legacy_integration_workspace,analyze_package_sparameter_impact.py,workspace_group,analyze_package_sparameter_impact.py,1,8671,.py:1
+rf_integration_legacy,legacy_integration_workspace,analyze_v18_trace_only_mixed_mode.py,workspace_group,analyze_v18_trace_only_mixed_mode.py,1,4150,.py:1
+rf_integration_legacy,legacy_integration_workspace,analyze_v7_fullband.py,workspace_group,analyze_v7_fullband.py,1,3630,.py:1
+rf_integration_legacy,legacy_integration_workspace,batch.log,workspace_group,batch.log,1,146599,.log:1
+rf_integration_legacy,legacy_integration_workspace,build_design5_hfss.log,workspace_group,build_design5_hfss.log,1,1239,.log:1
+rf_integration_legacy,legacy_integration_workspace,build_design5_hfss.py,workspace_group,build_design5_hfss.py,1,20806,.py:1
+rf_integration_legacy,legacy_integration_workspace,build_integrated_antenna_package_hfss.py,workspace_group,build_integrated_antenna_package_hfss.py,1,27456,.py:1
+rf_integration_legacy,legacy_integration_workspace,build_v18_trace_only_hfss.py,workspace_group,build_v18_trace_only_hfss.py,1,7878,.py:1
+rf_integration_legacy,legacy_integration_workspace,check_1.bmp,workspace_group,check_1.bmp,1,6912054,.bmp:1
+rf_integration_legacy,legacy_integration_workspace,check_1.jpg,workspace_group,check_1.jpg,1,167827,.jpg:1
+rf_integration_legacy,legacy_integration_workspace,check_2.bmp,workspace_group,check_2.bmp,1,6912054,.bmp:1
+rf_integration_legacy,legacy_integration_workspace,check_2.jpg,workspace_group,check_2.jpg,1,168251,.jpg:1
+rf_integration_legacy,legacy_integration_workspace,check_3.bmp,workspace_group,check_3.bmp,1,6912054,.bmp:1
+rf_integration_legacy,legacy_integration_workspace,check_3.jpg,workspace_group,check_3.jpg,1,161823,.jpg:1
+rf_integration_legacy,legacy_integration_workspace,check_4.bmp,workspace_group,check_4.bmp,1,6912054,.bmp:1
+rf_integration_legacy,legacy_integration_workspace,check_4.jpg,workspace_group,check_4.jpg,1,155002,.jpg:1
+rf_integration_legacy,legacy_integration_workspace,check_5.bmp,workspace_group,check_5.bmp,1,6912054,.bmp:1
+rf_integration_legacy,legacy_integration_workspace,check_5.jpg,workspace_group,check_5.jpg,1,160821,.jpg:1
+rf_integration_legacy,legacy_integration_workspace,check_6.bmp,workspace_group,check_6.bmp,1,6912054,.bmp:1
+rf_integration_legacy,legacy_integration_workspace,check_6.jpg,workspace_group,check_6.jpg,1,443639,.jpg:1
+rf_integration_legacy,legacy_integration_workspace,check_7.bmp,workspace_group,check_7.bmp,1,6912054,.bmp:1
+rf_integration_legacy,legacy_integration_workspace,check_7.jpg,workspace_group,check_7.jpg,1,321810,.jpg:1
+rf_integration_legacy,legacy_integration_workspace,compare_integrated_system_response.py,workspace_group,compare_integrated_system_response.py,1,4636,.py:1
+rf_integration_legacy,legacy_integration_workspace,compare_m1_optimization.py,workspace_group,compare_m1_optimization.py,1,5112,.py:1
+rf_integration_legacy,legacy_integration_workspace,convert_titles_to_bmp.ps1,workspace_group,convert_titles_to_bmp.ps1,1,340,.ps1:1
+rf_integration_legacy,legacy_integration_workspace,convert_titles_to_tiff.ps1,workspace_group,convert_titles_to_tiff.ps1,1,342,.ps1:1
+rf_integration_legacy,legacy_integration_workspace,create_curved_route_optimization_comparison.py,workspace_group,create_curved_route_optimization_comparison.py,1,3487,.py:1
+rf_integration_legacy,legacy_integration_workspace,create_design5_chip_package_cosim.py,workspace_group,create_design5_chip_package_cosim.py,1,5372,.py:1
+rf_integration_legacy,legacy_integration_workspace,create_design5_sixport_hfss.py,workspace_group,create_design5_sixport_hfss.py,1,5945,.py:1
+rf_integration_legacy,legacy_integration_workspace,create_integrated_antenna_chip_cosim.py,workspace_group,create_integrated_antenna_chip_cosim.py,1,5679,.py:1
+rf_integration_legacy,legacy_integration_workspace,create_report_dimensioned_figures.py,workspace_group,create_report_dimensioned_figures.py,1,11649,.py:1
+rf_integration_legacy,legacy_integration_workspace,create_report_final_cosimulation_figure.py,workspace_group,create_report_final_cosimulation_figure.py,1,5609,.py:1
+rf_integration_legacy,legacy_integration_workspace,create_report_v11_all_ports_50ohm.py,workspace_group,create_report_v11_all_ports_50ohm.py,1,5627,.py:1
+rf_integration_legacy,legacy_integration_workspace,create_report_v12_lengthopt_result.py,workspace_group,create_report_v12_lengthopt_result.py,1,6522,.py:1
+rf_integration_legacy,legacy_integration_workspace,create_report_v13_curved50ohm_result.py,workspace_group,create_report_v13_curved50ohm_result.py,1,6003,.py:1
+rf_integration_legacy,legacy_integration_workspace,create_report_v18_feed_transition_result.py,workspace_group,create_report_v18_feed_transition_result.py,1,4754,.py:1
+rf_integration_legacy,legacy_integration_workspace,create_report_v18_fullband_chinese.py,workspace_group,create_report_v18_fullband_chinese.py,1,2441,.py:1
+rf_integration_legacy,legacy_integration_workspace,create_report_v9_direct_result.py,workspace_group,create_report_v9_direct_result.py,1,5187,.py:1
+rf_integration_legacy,legacy_integration_workspace,create_v18_trace_only_insertion_loss_plot.py,workspace_group,create_v18_trace_only_insertion_loss_plot.py,1,2505,.py:1
+rf_integration_legacy,legacy_integration_workspace,D9lf_c1_0p385_c4L_1p355_c4R_1p300_c2_1p200_rev_balun_w24_g120.gds,workspace_group,D9lf_c1_0p385_c4L_1p355_c4R_1p300_c2_1p200_rev_balun_w24_g120.gds,1,43008,.gds:1
+rf_integration_legacy,legacy_integration_workspace,Design28_current_d7p5_t8_rw55_layout.png,workspace_group,Design28_current_d7p5_t8_rw55_layout.png,1,285007,.png:1
+rf_integration_legacy,legacy_integration_workspace,Design31_diff_matching_comparison.png,workspace_group,Design31_diff_matching_comparison.png,1,117607,.png:1
+rf_integration_legacy,legacy_integration_workspace,Design31_diff_matching_results.csv,workspace_group,Design31_diff_matching_results.csv,1,2049,.csv:1
+rf_integration_legacy,legacy_integration_workspace,Design9_emx_ports.svg,workspace_group,Design9_emx_ports.svg,1,3821,.svg:1
+rf_integration_legacy,legacy_integration_workspace,emx_cascade_candidates,workspace_group,emx_cascade_candidates,4,70313,.gds:2; .json:2
+rf_integration_legacy,legacy_integration_workspace,emx_cascade_results,simulation_results,emx_cascade_results,18,411469,.json:3; .png:3; .s3p:3; .finished:3; .status:3
+rf_integration_legacy,legacy_integration_workspace,EMX_HANDOFF.md,workspace_group,EMX_HANDOFF.md,1,4826,.md:1
+rf_integration_legacy,legacy_integration_workspace,EMX_SWEEP_OPTIMIZATION_GUIDE.md,workspace_group,EMX_SWEEP_OPTIMIZATION_GUIDE.md,1,3868,.md:1
+rf_integration_legacy,legacy_integration_workspace,export_design5_previews.py,workspace_group,export_design5_previews.py,1,1890,.py:1
+rf_integration_legacy,legacy_integration_workspace,export_design5_sixport_preview.py,workspace_group,export_design5_sixport_preview.py,1,1530,.py:1
+rf_integration_legacy,legacy_integration_workspace,export_integrated_antenna_package_preview.py,workspace_group,export_integrated_antenna_package_preview.py,1,1913,.py:1
+rf_integration_legacy,legacy_integration_workspace,export_integrated_hfss_s4p.py,workspace_group,export_integrated_hfss_s4p.py,1,1605,.py:1
+rf_integration_legacy,legacy_integration_workspace,export_single_bondwire_preview.py,workspace_group,export_single_bondwire_preview.py,1,1051,.py:1
+rf_integration_legacy,legacy_integration_workspace,export_trace_only_model_image.py,workspace_group,export_trace_only_model_image.py,1,6486,.py:1
+rf_integration_legacy,legacy_integration_workspace,export_v18_clear_layer_preview.py,workspace_group,export_v18_clear_layer_preview.py,1,2562,.py:1
+rf_integration_legacy,legacy_integration_workspace,export_v18_differential_radiation_pattern.py,workspace_group,export_v18_differential_radiation_pattern.py,1,3058,.py:1
+rf_integration_legacy,legacy_integration_workspace,external,archive_or_reference,external,347,14784203,.py:124; .json:75; .s2p:70; .s3p:45; .md:20
+rf_integration_legacy,legacy_integration_workspace,extract_bondwire_inductance.py,workspace_group,extract_bondwire_inductance.py,1,4522,.py:1
+rf_integration_legacy,legacy_integration_workspace,fdl_first_batch,workspace_group,fdl_first_batch,24,289967,.py:22; .csv:2
+rf_integration_legacy,legacy_integration_workspace,fdl_generators,workspace_group,fdl_generators,2,21613,.py:1; .svg:1
+rf_integration_legacy,legacy_integration_workspace,fig7a_layout_only_guess.png,workspace_group,fig7a_layout_only_guess.png,1,80065,.png:1
+rf_integration_legacy,legacy_integration_workspace,fig7a_left_focus.png,workspace_group,fig7a_left_focus.png,1,93167,.png:1
+rf_integration_legacy,legacy_integration_workspace,fig7all_layouts_mid.png,workspace_group,fig7all_layouts_mid.png,1,91535,.png:1
+rf_integration_legacy,legacy_integration_workspace,fig7b_crop.png,workspace_group,fig7b_crop.png,1,53798,.png:1
+rf_integration_legacy,legacy_integration_workspace,fig7b_final_crop.png,workspace_group,fig7b_final_crop.png,1,82959,.png:1
+rf_integration_legacy,legacy_integration_workspace,fig7b_final_crop2.png,workspace_group,fig7b_final_crop2.png,1,80535,.png:1
+rf_integration_legacy,legacy_integration_workspace,fig7b_layout_only_guess.png,workspace_group,fig7b_layout_only_guess.png,1,57977,.png:1
+rf_integration_legacy,legacy_integration_workspace,fig7b_only.png,workspace_group,fig7b_only.png,1,75232,.png:1
+rf_integration_legacy,legacy_integration_workspace,fig7b_right_focus.png,workspace_group,fig7b_right_focus.png,1,70808,.png:1
+rf_integration_legacy,legacy_integration_workspace,fig7b_wider.png,workspace_group,fig7b_wider.png,1,70223,.png:1
+rf_integration_legacy,legacy_integration_workspace,fig7both_layouts.png,workspace_group,fig7both_layouts.png,1,99343,.png:1
+rf_integration_legacy,legacy_integration_workspace,fig7top_left.png,workspace_group,fig7top_left.png,1,158057,.png:1
+rf_integration_legacy,legacy_integration_workspace,fig7top_right.png,workspace_group,fig7top_right.png,1,109130,.png:1
+rf_integration_legacy,legacy_integration_workspace,hfss_joint_sim_s11_report.png,workspace_group,hfss_joint_sim_s11_report.png,1,60536,.png:1
+rf_integration_legacy,legacy_integration_workspace,joint_sim_s11_hfss_import.csv,workspace_group,joint_sim_s11_hfss_import.csv,1,1954,.csv:1
+rf_integration_legacy,legacy_integration_workspace,joint_sim_s11_hfss_import_ascii.csv,workspace_group,joint_sim_s11_hfss_import_ascii.csv,1,1947,.csv:1
+rf_integration_legacy,legacy_integration_workspace,joint_sim_s11_hfss_import_exact.csv,workspace_group,joint_sim_s11_hfss_import_exact.csv,1,1782,.csv:1
+rf_integration_legacy,legacy_integration_workspace,JointSimS11_ImportContainer.csv,workspace_group,JointSimS11_ImportContainer.csv,1,1669,.csv:1
+rf_integration_legacy,legacy_integration_workspace,l3_5p08_opt,workspace_group,l3_5p08_opt,1,11819,.py:1
+rf_integration_legacy,legacy_integration_workspace,make_titles_ascii.ps1,workspace_group,make_titles_ascii.ps1,1,2104,.ps1:1
+rf_integration_legacy,legacy_integration_workspace,make_titles_top_right.ps1,workspace_group,make_titles_top_right.ps1,1,2121,.ps1:1
+rf_integration_legacy,legacy_integration_workspace,make_video_titles.ps1,workspace_group,make_video_titles.ps1,1,1546,.ps1:1
+rf_integration_legacy,legacy_integration_workspace,manual_cascade_candidates,workspace_group,manual_cascade_candidates,5,205849,.gds:2; .json:2; .png:1
+rf_integration_legacy,legacy_integration_workspace,manual_emx_results,simulation_results,manual_emx_results,11,176394,.finished:2; .status:2; .stderr:2; .stdout:2; .s3p:1
+rf_integration_legacy,legacy_integration_workspace,manual_filter_region_indices.png,workspace_group,manual_filter_region_indices.png,1,1246225,.png:1
+rf_integration_legacy,legacy_integration_workspace,manual_saved_layout.gds,workspace_group,manual_saved_layout.gds,1,43008,.gds:1
+rf_integration_legacy,legacy_integration_workspace,manual_saved_layout_balun_zoom.png,workspace_group,manual_saved_layout_balun_zoom.png,1,556360,.png:1
+rf_integration_legacy,legacy_integration_workspace,manual_saved_layout_connection_zoom.png,workspace_group,manual_saved_layout_connection_zoom.png,1,668286,.png:1
+rf_integration_legacy,legacy_integration_workspace,manual_saved_layout_overview.png,workspace_group,manual_saved_layout_overview.png,1,1025624,.png:1
+rf_integration_legacy,legacy_integration_workspace,manual_saved_layout_overview.svg,workspace_group,manual_saved_layout_overview.svg,1,197759,.svg:1
+rf_integration_legacy,legacy_integration_workspace,open_final_v18_hfss.py,workspace_group,open_final_v18_hfss.py,1,727,.py:1
+rf_integration_legacy,legacy_integration_workspace,optimize_bondwire_inductance.py,workspace_group,optimize_bondwire_inductance.py,1,5425,.py:1
+rf_integration_legacy,legacy_integration_workspace,optimize_design31_diff_match.py,workspace_group,optimize_design31_diff_match.py,1,8659,.py:1
+rf_integration_legacy,legacy_integration_workspace,optimize_symmetric_output_routes.py,workspace_group,optimize_symmetric_output_routes.py,1,8455,.py:1
+rf_integration_legacy,legacy_integration_workspace,optimize_three_route_sections.py,workspace_group,optimize_three_route_sections.py,1,6486,.py:1
+rf_integration_legacy,legacy_integration_workspace,p3shape_d8_t8_rw55_geometry.png,workspace_group,p3shape_d8_t8_rw55_geometry.png,1,285753,.png:1
+rf_integration_legacy,legacy_integration_workspace,page4.png,workspace_group,page4.png,1,1181678,.png:1
+rf_integration_legacy,legacy_integration_workspace,page5.png,workspace_group,page5.png,1,1204898,.png:1
+rf_integration_legacy,legacy_integration_workspace,plot_fb_c31_annotated.py,workspace_group,plot_fb_c31_annotated.py,1,22187,.py:1
+rf_integration_legacy,legacy_integration_workspace,PORTFOLIO_MAP.md,workspace_group,PORTFOLIO_MAP.md,1,801,.md:1
+rf_integration_legacy,legacy_integration_workspace,PROJECT_CONTEXT.md,workspace_group,PROJECT_CONTEXT.md,1,4726,.md:1
+rf_integration_legacy,legacy_integration_workspace,README.md,workspace_group,README.md,1,572,.md:1
+rf_integration_legacy,legacy_integration_workspace,replace_radiation_pattern_title.py,workspace_group,replace_radiation_pattern_title.py,1,905,.py:1
+rf_integration_legacy,legacy_integration_workspace,repo_lvbobalun,workspace_group,repo_lvbobalun,366,15025699,.py:138; .json:77; .s2p:70; .s3p:45; .md:21
+rf_integration_legacy,legacy_integration_workspace,solve_integrated_hfss.py,workspace_group,solve_integrated_hfss.py,1,1134,.py:1
+rf_integration_legacy,legacy_integration_workspace,title_1.bmp,workspace_group,title_1.bmp,1,9216054,.bmp:1
+rf_integration_legacy,legacy_integration_workspace,title_1.png,workspace_group,title_1.png,1,14877,.png:1
+rf_integration_legacy,legacy_integration_workspace,title_1.tiff,workspace_group,title_1.tiff,1,19028,.tiff:1
+rf_integration_legacy,legacy_integration_workspace,title_2.bmp,workspace_group,title_2.bmp,1,9216054,.bmp:1
+rf_integration_legacy,legacy_integration_workspace,title_2.png,workspace_group,title_2.png,1,16293,.png:1
+rf_integration_legacy,legacy_integration_workspace,title_2.tiff,workspace_group,title_2.tiff,1,20942,.tiff:1
+rf_integration_legacy,legacy_integration_workspace,title_3.bmp,workspace_group,title_3.bmp,1,9216054,.bmp:1
+rf_integration_legacy,legacy_integration_workspace,title_3.png,workspace_group,title_3.png,1,13326,.png:1
+rf_integration_legacy,legacy_integration_workspace,title_3.tiff,workspace_group,title_3.tiff,1,16204,.tiff:1
+rf_integration_legacy,legacy_integration_workspace,title_4.bmp,workspace_group,title_4.bmp,1,9216054,.bmp:1
+rf_integration_legacy,legacy_integration_workspace,title_4.png,workspace_group,title_4.png,1,13981,.png:1
+rf_integration_legacy,legacy_integration_workspace,title_4.tiff,workspace_group,title_4.tiff,1,17778,.tiff:1
+rf_integration_legacy,legacy_integration_workspace,title_5.bmp,workspace_group,title_5.bmp,1,9216054,.bmp:1
+rf_integration_legacy,legacy_integration_workspace,title_5.png,workspace_group,title_5.png,1,13367,.png:1
+rf_integration_legacy,legacy_integration_workspace,title_5.tiff,workspace_group,title_5.tiff,1,16630,.tiff:1
+rf_integration_legacy,legacy_integration_workspace,title_6.bmp,workspace_group,title_6.bmp,1,9216054,.bmp:1
+rf_integration_legacy,legacy_integration_workspace,title_6.png,workspace_group,title_6.png,1,13233,.png:1
+rf_integration_legacy,legacy_integration_workspace,title_6.tiff,workspace_group,title_6.tiff,1,16002,.tiff:1
+rf_integration_legacy,legacy_integration_workspace,title_check_1.jpg,workspace_group,title_check_1.jpg,1,190121,.jpg:1
+rf_integration_legacy,legacy_integration_workspace,title_check_2.jpg,workspace_group,title_check_2.jpg,1,181573,.jpg:1
+rf_integration_legacy,legacy_integration_workspace,title_check_3.jpg,workspace_group,title_check_3.jpg,1,169070,.jpg:1
+rf_integration_legacy,legacy_integration_workspace,title_check_4.jpg,workspace_group,title_check_4.jpg,1,162107,.jpg:1
+rf_integration_legacy,legacy_integration_workspace,title_check_5.jpg,workspace_group,title_check_5.jpg,1,168351,.jpg:1
+rf_integration_legacy,legacy_integration_workspace,title_check_6.jpg,workspace_group,title_check_6.jpg,1,452949,.jpg:1
+rf_integration_legacy,legacy_integration_workspace,tmp,archive_or_reference,tmp,157,14543209,.s2p:105; .png:18; .json:14; .py:8; .il:3
+rf_integration_legacy,legacy_integration_workspace,tmp_emx_scripts,archive_or_reference,tmp_emx_scripts,233,3766622,.s3p:72; .gds:71; .py:53; .il:21; .png:12
+rf_integration_legacy,legacy_integration_workspace,tmp_extract,workspace_group,tmp_extract,5,24042,.txt:5
+rf_integration_legacy,legacy_integration_workspace,tmp_lefdef,archive_or_reference,tmp_lefdef,2,6706,.def:1; .lef:1
+rf_integration_legacy,legacy_integration_workspace,tmp_page4.txt,workspace_group,tmp_page4.txt,1,4849,.txt:1
+rf_integration_legacy,legacy_integration_workspace,tmp_page5.txt,workspace_group,tmp_page5.txt,1,5550,.txt:1
+rf_integration_legacy,legacy_integration_workspace,tools,source,tools,52,413093,.py:51; .cjs:1
+rf_integration_legacy,legacy_integration_workspace,ultraem_cli_appendix.txt,workspace_group,ultraem_cli_appendix.txt,1,5063,.txt:1
+rf_integration_legacy,legacy_integration_workspace,ultraem_cli_section.txt,workspace_group,ultraem_cli_section.txt,1,4875,.txt:1
+rf_integration_legacy,legacy_integration_workspace,ultraem_extracted.txt,workspace_group,ultraem_extracted.txt,1,247652,.txt:1
+rf_integration_legacy,legacy_integration_workspace,ultraem_pages_utf8.txt,workspace_group,ultraem_pages_utf8.txt,1,2398,.txt:1
+rf_integration_legacy,legacy_integration_workspace,validate_chip_touchstone_in_circuit.py,workspace_group,validate_chip_touchstone_in_circuit.py,1,1987,.py:1
+rf_integration_legacy,legacy_integration_workspace,video_concat_filter.txt,workspace_group,video_concat_filter.txt,1,1153,.txt:1
+rf_integration_legacy,legacy_integration_workspace,video_concat_list.txt,workspace_group,video_concat_list.txt,1,450,.txt:1
+rf_integration_legacy,legacy_integration_workspace,video_concat_with_titles.txt,workspace_group,video_concat_with_titles.txt,1,1749,.txt:1
+rf_integration_legacy,legacy_integration_workspace,vm_probe,workspace_group,vm_probe,55,3818735,.txt:27; .il:15; .png:4; .proc:3; .py:2
+rf_integration_legacy,legacy_integration_workspace,优化预览_fixedports,workspace_group,优化预览_fixedports,10,2831783,.png:10
+rf_integration_legacy,legacy_integration_workspace,合并视频.mp4,workspace_group,合并视频.mp4,1,63138537,.mp4:1
+rf_integration_legacy,legacy_integration_workspace,合并视频_带文字.mp4,workspace_group,合并视频_带文字.mp4,1,64851741,.mp4:1
+rf_integration_legacy,legacy_integration_workspace,联合仿真S11.csv,workspace_group,联合仿真S11.csv,1,1661,.csv:1
+rf_integration_legacy,legacy_integration_workspace,视频合并_无损.mp4,workspace_group,视频合并_无损.mp4,1,134763055,.mp4:1
+rf_integration_legacy,legacy_integration_workspace,输出_当前巴伦版图_r13_c0p78,workspace_group,输出_当前巴伦版图_r13_c0p78,10,951306,.gds:3; .json:3; .png:3; .s3p:1
